@@ -1,4 +1,5 @@
 # Simon Game 
+# https://aboutsbu.github.io/SimonGame/
 
 This a memory game. The program starts off by showing which block to start at by flashing for a quick second. 
 You have to click the correct block. 
